@@ -1,5 +1,7 @@
 # padavan-4.4 #
-
+default LAN ip：192.168.2.1
+USER_ROOT/PASSWORD：admin/admin
+WLAN WiFi PASSWORD：1234567890
 This project is based on original rt-n56u with latest mtk 4.4.198 kernel, which is fetch from D-LINK GPL code.
 
 - Features
